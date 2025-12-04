@@ -12,7 +12,6 @@ I love collaborating with teams to turn
 “Wouldn’t it be better if…?” into something real.
 Feel free to reach out—always happy to build something together.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=haruyaono)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Tech Stack](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,nextjs,ruby,rails,php,laravel,python,fastapi,kotlin,ktor,docker,terraform,aws,gcp,firebase)
 
